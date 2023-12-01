@@ -40,4 +40,4 @@ Egger J and Masood T. (2019). Augmented Reality in Support of Intelligent Manufa
 
 ## INSTALLATION INSTRUCTIONS
 
-Must have unity installed, then download zipped folder from Github.
+Must have unity installed, then download zipped folder from Github, open the unity hub and open a new project. Naviagate to the unzipped folder and open the project. Once you are in the project, build and run the project, it will bring you straight to the training scene, which will allow you to navigate in the VR headset. Using the controllers you are able to rotate, move and control the forks. 
