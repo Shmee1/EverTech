@@ -1,16 +1,12 @@
 #### EVERTECH
 
-COSC 490 Senior Project
-
-### A simulated environment mean't to educate users about forklift operation
-
 ## ABSTRACT
 
 This project was an attempt to integrate virtual reality technology and game development for the purpose of recreating a simulated warehouse environment where users could interact , learn, and improve their forking operating skills. Created with the unity game engine with code written in the c# language, EVERTECH is an exciting and engaging way to learn about forklift operation.
 
 ## OBJECTIVE
 
-Our objective was to create an educational tool that will teach the user how to work a forklift.
+Our objective was to create an educational tool in VR using unity that will teach the user how to work a forklift. We created a training and task level that will allow to the user to understand the mechanisms of the forklift and how to control it.
 
 ## GAME MECHANICS
 
